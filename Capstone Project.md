@@ -51,3 +51,19 @@ Para poder considerar completadas las semanas 1 y 2 de entrenamiento debe contem
 | Impresión de pantalla de operaciones CRUD (find con query selector, update con query selector, insert) en datos reales de MongoDB   | 10          |
 | **Total**                                                                                                                           | **100**     |
 | **Mínimo Aprobatorio**
+
+Para poder considerar completadas las semanas 3 a la 6 de entrenamiento debe contemplar lo siguiente:
+
+| **Tópico** (Requerimientos Capstone Project)                                                                                        | **Puntaje** |
+|-------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| FE en AngularJS+Typescript y BE en Nodejs                                                                                           | 10          |
+| El Backend debe estar Dockerizado                                                                                                   | 10          |
+| Manejo de una arquitectura REST API                                                                                                 | 10          |
+| Llamados asíncronos a un API                                                                                                        | 10          |
+| Por lo menos una entrada global para buscar/filtrar contenido (Search, Categories, Filter, etc)                                     | 10          |
+| Diseño responsivo utilizando la estrategia de Mobile First                                                                          | 10          |
+| Despliegue en la nube usando alguno de los servicios de infraestructura (AWS, Vercel, Heroku, Netlify, etc)                         | 10          |
+| Autenticación de usuario; podemos usar integraciones/servicios de terceros como Facebook, Auth0,                                    | 10          |
+| Contar con una de las siguientes funcionalidades: <br> * Catálogo de productos e.g (E-commerce) <br> * Integración con algún servicios de terceros (Mapas, Pagos, otros) <br> * Gamificación <br> * Gráficos basados en HTML (Chart.js, D3js, Otros) </p>                                | 20          |
+| **Total**                                                                                                                           | **100**     |
+| **Mínimo Aprobatorio**
