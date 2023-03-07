@@ -21,8 +21,8 @@ Se deberá enviar cada entrega en las fechas indicadas en la siguiente sección 
 
 # Entregables
 ## Fechas de Entrega
- - Entregable 1: TBD
- - Entregable 2: TBD
+ - Entregable 1: 10 de Abril de 2023
+ - Entregable 2: 5 de Mayo de 2023
 
 ## Entregable 1
 
