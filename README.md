@@ -59,9 +59,13 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 # IV. Proyecto Final (Capstone Project)
 
 **Objetivo**
-Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo
+Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo.
+- Para poder presentar tu proyecto final, debes contar con un mínimo de **6 mentorías on-demand**
+- Se tomará en cuenta tu participación en sesiones presenciales y virtuales. 
 
-TBD
+[Aquí](Capstone%20Project.md) encontrarás las instrucciones para completar tu proyecto final.
+
+Para la revisión de tu Capstone Project se te asignará un mentor, el cual te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
 
 # VI. Contacto Wizeline Academy
 
