@@ -8,7 +8,7 @@
 
 ## :clipboard: Material
 
-Consultar en la [presentación](https://docs.google.com/presentation/d/1TgLKdAw54CHIy4n3jbXIbLHM--xYYYd9MOC6h0HsJqU/edit?usp=sharing) las diapositivas 23 a la 28
+Consultar en la [presentación](https://docs.google.com/presentation/d/1zoOPwCrpwpjyu3-AIWBFuZ7dw14zSUR5GUShWpXT1jQ/edit?usp=sharing) las diapositivas 21 a la 27
 
 ## :books: Temas
 
@@ -265,8 +265,8 @@ deleteAsync(newFilePath);
 ## :mag: Para saber más
 
 - [Callbacks](https://nodejs.dev/en/learn/javascript-asynchronous-programming-and-callbacks/)
-- [Entendiendo las promesas de JavaScript](https://nodejs.dev/en/learn/understanding-javascript-promises/)
-- [Async & Await](https://nodejs.dev/en/learn/modern-asynchronous-javascript-with-async-and-await/)
+- [Entendiendo las promesas de JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- [Async & Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
 - [Diferencias entre promesas y async/await](https://www.geeksforgeeks.org/difference-between-promise-and-async-await-in-node-js/)
 - [Rutas de archivos](https://nodejs.dev/en/learn/nodejs-file-paths/)
 - [Trabajar con directorios](https://nodejs.dev/en/learn/working-with-folders-in-nodejs/)

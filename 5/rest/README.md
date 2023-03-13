@@ -8,7 +8,7 @@
 
 ## :clipboard: Material
 
-Consultar en la [presentación](https://docs.google.com/presentation/d/1TgLKdAw54CHIy4n3jbXIbLHM--xYYYd9MOC6h0HsJqU/edit?usp=sharing) las diapositivas 40 a la 43
+Consultar en la [presentación](https://docs.google.com/presentation/d/1zoOPwCrpwpjyu3-AIWBFuZ7dw14zSUR5GUShWpXT1jQ/edit?usp=sharing) las diapositivas 38 a la 42
 
 ## :books: Temas
 
@@ -73,9 +73,8 @@ server.listen(8080);
 
 ## :mag: Para saber más
 
-[Que es una REST API](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
-
-[Creando un cliente HTTP](https://nodejs.dev/en/learn/making-http-requests-with-nodejs/)
+- [Que es una REST API](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
+- [Creando un cliente HTTP](https://www.geeksforgeeks.org/how-to-make-http-requests-in-node-js/)
 
 ## :pencil2: Ejercicio
 

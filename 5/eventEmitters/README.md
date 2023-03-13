@@ -8,7 +8,7 @@
 
 ## :clipboard: Material
 
-Consultar en la [presentación](https://docs.google.com/presentation/d/1TgLKdAw54CHIy4n3jbXIbLHM--xYYYd9MOC6h0HsJqU/edit?usp=sharing) las diapositivas 35 a 38
+Consultar en la [presentación](https://docs.google.com/presentation/d/1zoOPwCrpwpjyu3-AIWBFuZ7dw14zSUR5GUShWpXT1jQ/edit?usp=sharing) las diapositivas 33 a 37
 
 ## :books: Temas
 
@@ -110,7 +110,7 @@ console.log({ bigBuff, string: bigBuff.toString() });
 
 - [Eventos](https://nodejs.org/api/events.html)
 - [El emisor de eventos de NodeJS](https://nodejs.dev/en/learn/the-nodejs-event-emitter/)
-- [Buffers](https://nodejs.dev/en/learn/nodejs-buffers/)
+- [Buffers](https://nodejs.org/api/buffer.html)
 
 ## :pencil2: Ejercicio
 
