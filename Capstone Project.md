@@ -55,7 +55,7 @@ Para poder considerar completadas las semanas 1 y 2 de entrenamiento debe contem
 | Base de datos de MongoDB exportada                                                                                                  | 10          |
 | Impresión de pantalla de operaciones CRUD (find con query selector, update con query selector, insert) en datos reales de MongoDB   | 10          |
 | **Total**                                                                                                                           | **100**     |
-| **Mínimo Aprobatorio**
+| **Mínimo Aprobatorio**                                                                                                              | 80          |
 
 Para poder considerar completadas las semanas 3 a la 6 de entrenamiento debe contemplar lo siguiente:
 
@@ -71,4 +71,4 @@ Para poder considerar completadas las semanas 3 a la 6 de entrenamiento debe con
 | Autenticación de usuario; podemos usar integraciones/servicios de terceros como Facebook, Auth0,                                    | 10          |
 | Contar con una de las siguientes funcionalidades: <br> * Catálogo de productos e.g (E-commerce) <br> * Integración con algún servicios de terceros (Mapas, Pagos, otros) <br> * Gamificación <br> * Gráficos basados en HTML (Chart.js, D3js, Otros) </p>                                | 20          |
 | **Total**                                                                                                                           | **100**     |
-| **Mínimo Aprobatorio**
+| **Mínimo Aprobatorio**                                                                                                              | 80          |
