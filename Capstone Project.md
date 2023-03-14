@@ -32,7 +32,12 @@ Se deberá enviar cada entrega en las fechas indicadas en la siguiente sección 
   - RestAPIs
   - Kafka
   - MongoDB
-  - Serverless
+
+- **Temas relacionados**: Semana 3, 4, 5 y 6
+  - Javascript
+  - Angular
+  - NodeJS
+  - CleanCode
 
 ### Requerimientos y Criterio de Evaluación
 Para poder considerar completadas las semanas 1 y 2 de entrenamiento debe contemplar lo siguiente:
