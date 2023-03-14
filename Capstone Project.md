@@ -63,7 +63,7 @@ Para poder considerar completadas las semanas 3 a la 6 de entrenamiento debe con
 
 | **Tópico** (Requerimientos Capstone Project)                                                                                        | **Puntaje** |
 |-------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| FE en AngularJS+Typescript y BE en Nodejs                                                                                           | 10          |
+| FE en Angular+Typescript y BE en Nodejs                                                                                           | 10          |
 | El Backend debe estar Dockerizado                                                                                                   | 10          |
 | Manejo de una arquitectura REST API                                                                                                 | 10          |
 | Llamados asíncronos a un API                                                                                                        | 10          |
