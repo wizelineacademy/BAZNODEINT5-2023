@@ -33,6 +33,8 @@ Se deberá enviar cada entrega en las fechas indicadas en la siguiente sección 
   - Kafka
   - MongoDB
 
+## Entregable 2
+
 - **Temas relacionados**: Semana 3, 4, 5 y 6
   - Javascript
   - Angular
