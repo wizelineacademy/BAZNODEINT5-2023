@@ -24,13 +24,29 @@ REST: REST es un conjunto de restricciones arquitectónicas, no un protocolo o u
 
 Los clientes HTTP/HTTPS nos permiten consultar recursos externos y poder usarlos dentro de nuestro proyecto.
 
-La mejor manera de crear un cliente HTTP/HTTPS es usando el modulo [axios](https://github.com/axios/axios). El siguiente es un ejemplo de una llamada GET:
+Existen varios paquetes que nos proveen métodos para crear clientes, exploraremos la paquetería nativa [fetch](https://nodejs.org/api/globals.html#fetch) y una de terceros [axios](https://github.com/axios/axios).
+
+El siguiente es un ejemplo de una llamada GET:
 
 ```js
-const axios = require('axios');
 const url = 'https://localhost:8080';
 
 // Usando promesas
+// Fetch
+fetch(url)
+  .then((res) => {
+    console.log(`statusCode: ${res.status}`);
+    return res.json()
+  })
+  .then((res) =>{
+    console.log(res)
+  })
+  .catch((error) => {
+    console.error(error);
+  });
+
+// Axios
+const axios = require('axios');
 axios
   .get(url)
   .then((res) => {
@@ -42,7 +58,26 @@ axios
   });
 
 // Usando funciones asíncronas
-const getRequest = async (url) => {
+// Fetch
+const getRequestFetch = async (url) => {
+  try {
+    const response = await fetch(url);
+    const data = await response.json()
+    return data;
+  } catch (e) {
+    return e;
+  }
+}
+
+getRequestFetch(url)
+  .then(resp =>
+    console.log(resp)
+  ).catch(err => 
+    console.error(err)
+  )
+
+// Axios
+const getRequestAxios = async (url) => {
   try {
     const response = await axios.get(url);
     return response.data;
@@ -50,7 +85,12 @@ const getRequest = async (url) => {
     return e;
   }
 };
-getRequest(url);
+getRequestAxios(url)
+  .then(resp =>
+    console.log(resp)
+  ).catch(err => 
+    console.error(err)
+  )
 ```
 
 Axios también posee métodos para ejecutar llamadas POST, PUT y DELETE
@@ -73,6 +113,8 @@ server.listen(8080);
 
 ## :mag: Para saber más
 
+- [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/fetch)
+- [Axios](https://www.npmjs.com/package/axios)
 - [Que es una REST API](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
 - [Creando un cliente HTTP](https://www.geeksforgeeks.org/how-to-make-http-requests-in-node-js/)
 
