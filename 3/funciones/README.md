@@ -1,4 +1,4 @@
-# :bulb: Modulo 3: Event Emitters & Buffers
+# :bulb: Modulo 3: Funciones
 
 ## :book: Objetivo
 
