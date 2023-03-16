@@ -8,7 +8,7 @@
 
 ## :clipboard: Material
 
-Consultar en la [presentación](../BAZ%20Training%20Javascript%20Junior.pdf) las diapositivas 30 a 42 o la [guia](https://docs.google.com/document/d/1oacfP9b0qPZo7OJ0U0_i-gzluMbshqVDZJyEHuzH2h0/edit?usp=sharing) desarrollada.
+Consultar en la [presentación](../BAZ%20Training%20Javascript%20Junior.pdf) las diapositivas 30 a 42 o la [guia](../BAZ%20-%20Javascript%20Junior.pdf) desarrollada.
 
 # :books: Temas
 
