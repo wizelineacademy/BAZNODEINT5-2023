@@ -10,7 +10,7 @@
 
 ## :clipboard: Material
 
-Consultar en la [presentación]('RestAPIs.pptx.pdf').
+Consultar en la [presentación](RestAPIs.pptx.pdf).
 
 # :books: Temas
 
