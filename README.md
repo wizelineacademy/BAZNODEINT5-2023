@@ -36,6 +36,11 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 2.  [Microservicios](1/Microservicios/README.md)
 3.  [REST API](1/REST%20API/README.md)
 
+### Semana 2 - Fundamentals ()
+
+1.  [Kafka](1/GIT/README.md)
+2.  [MongoDB](1/MongoDB/README.md)
+
 
 ### Semana 3 - Fundamentals (Javascript)
 
