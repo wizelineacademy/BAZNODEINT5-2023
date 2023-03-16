@@ -38,8 +38,8 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 
 ### Semana 2 - Fundamentals (kafka + Mongo DB)
 
-1.  [Kafka](1/GIT/README.md)
-2.  [MongoDB](1/MongoDB/README.md)
+1.  [Kafka](2/GIT/README.md)
+2.  [MongoDB](2/MongoDB/README.md)
 
 
 ### Semana 3 - Fundamentals (Javascript)
