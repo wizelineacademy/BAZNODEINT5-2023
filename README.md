@@ -30,6 +30,13 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 
 ## Sesiones
 
+### Semana 1 - Fundamentals
+
+1.  [Git](1/GIT/README.md)
+2.  [Microservicios](1/Microservicios/README.md)
+3.  [REST API](1/REST%20API/README.md)
+
+
 ### Semana 3 - Fundamentals (Javascript)
 
 1.  [Iteradores](3/iteradores/README.md)
