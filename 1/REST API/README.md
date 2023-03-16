@@ -10,7 +10,7 @@
 
 ## :clipboard: Material
 
-Consultar en la [presentación](https://docs.google.com/presentation/d/1ik1JkpY0564S_Taah9aETjbt0NGNIUTl/edit?usp=sharing&ouid=103375097265829776983&rtpof=true&sd=true).
+Consultar en la [presentación]('./REST%20API/RestAPIs.pptx.pdf').
 
 # :books: Temas
 
