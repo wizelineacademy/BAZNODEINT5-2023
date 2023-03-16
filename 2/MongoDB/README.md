@@ -1,19 +1,30 @@
-# MongoDB
+# :bulb: Modulo 2: MongoDB
 
-## Pre-requisitos de la sesión en vivo
+### Pre-requisitos de la sesión en vivo
 - Tener instalado [Docker](https://www.docker.com/)
 - En caso de no tener instalado Docker, tener instalado [MongoDB](https://coder-solution-es.com/solution-es-blog/1227314)
 - Revisar los conceptos básicos:
 
-## Temario
+## :book: Objetivo
 
-### SQL vs NoSQL
+- Levantar una instancia de MongoDB
+- Definir modelos y esquemas
+- Realizar operaciones CRUD
+
+
+## :clipboard: Material
+
+Consultar en la [presentación día 1](Mongo%20Dia%203.pptx.pdf), [presentación día 2](Mongo%20Dia%204.pptx.pdf), [presentación día 3](Mongo%20Dia%205.pptx.pdf) 
+
+# :books: Temas
+
+### 1. SQL vs NoSQL
 Referencias:
 * [IBM](https://www.ibm.com/cloud/blog/sql-vs-nosql)
 * [DataScientest](https://datascientest.com/es/sql-vs-nosql-diferencias-usos-ventajas-y-inconvenientes)
 * [MongoDB](https://www.mongodb.com/nosql-explained/nosql-vs-sql)
 
-### Conceptos básicos
+### 2. Conceptos básicos
 * Documentos
    * <https://www.mongodb.com/docs/manual/core/document/>
 * Colecciones
@@ -21,7 +32,7 @@ Referencias:
 
 [Documentos y colecciones en español](http://www.cantabriatic.com/introduccion-a-mongodb)
 
-### Primeros pasos
+### 3. Primeros pasos
 Referencias
 * [Instalación directa en Windows](https://www.adictosaltrabajo.com/2011/01/10/mongodb/#:~:text=Instalando%20MongoDB,pues%20ya%20lo%20hemos%20instalado.)
 * [Instalación por plataforma](https://www.mongodb.com/docs/manual/administration/install-community/)
@@ -57,7 +68,7 @@ Para importar estos datos se pueden utilizar los siguientes comandos:
    * ```docker exec mongodb mongoimport -d sakila -c films --file /tmp/films.json```
    * ```docker exec mongodb mongoimport -d sakila -c stores --file /tmp/stores.json```
 
-### Operaciones CRUD
+### 4. Operaciones CRUD
 Referencia: [Operaciones CRUD](https://platzi.com/contributions/operaciones-crud-en-mongodb/)
 * Consultar documentos
    * Consultar sin filtros
@@ -87,13 +98,13 @@ db.proyectos.updateMany( { presupuesto: { $ne: 100 } }, { $set: { presupuesto: 1
    * Eliminar documentos filtrados
 ``` db.proyectos.deleteMany({ cantidad: 1 }) ```
 
-### Modelos y esquemas
+### 5. Modelos y esquemas
 Referencia: [MongoDB Arquitectura y modelo de datos](https://sitiobigdata.com/2017/12/27/mongodb-arquitectura-y-modelo-de-datos/#:~:text=Modelo%20de%20datos%20MongoDB)
-### Índices
+### 6. Índices
 Referencia: [MongoDB: creación y utilización de índices](https://www.genbeta.com/desarrollo/mongodb-creacion-y-utilizacion-de-indices)
-### Hashing
+### 7. Hashing
 Referencia: [dbHash](https://www.mongodb.com/docs/manual/reference/command/dbHash/)
-### Replica Set
+### 8. Replica Set
 Referencia: [Replication](https://www.mongodb.com/docs/manual/replication/)
-### Mejores Practicas de Diseño
+### 9. Mejores Practicas de Diseño
 Referencia: [Diseño](https://www.mongodb.com/developer/products/mongodb/mongodb-schema-design-best-practices/)
