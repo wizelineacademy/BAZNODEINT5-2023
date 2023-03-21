@@ -14,11 +14,11 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 
 **Sesiones en Vivo** 
 - Son clases presenciales que imparten ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
-- Lunes y Martes: 9am y 2pm en oficinas de Wizeline - [Liga zoom](https://wizeline.zoom.us/j/89173238693) en caso que no puedan presentarse.
+- Lunes y Martes: 9am en oficinas de Wizeline - [Liga zoom](https://wizeline.zoom.us/j/89173238693) en caso que no puedan presentarse.
 
 - En las sesiones en línea, es **obligatorio** tener la cámara prendida.
 - Debes asisitir a mínimo 8 sesiones presenciales para tener derecho a presentar tu Proyecto Final
-- En caso de no poder asistir a alguna sesión presencial y/o virtual, debes informarnos por Telegram y vía correo electrónico a Contacto DSA, con copia a Mercedes Vargas mevargas@gesech.com y a tu líder de gremio. 
+- En caso de no poder asistir a alguna sesión presencial y/o virtual, debes informarnos por Telegram y vía correo electrónico a Contacto DSA: baz-dsa@wizeline.com, con copia a Mercedes Vargas: mevargas@gesech.com y a tu líder de gremio. 
 
 **Mentorías Grupales**
 - Son sesiones de mentoría en sitio que se llevan a cabo después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías es de 2 horas.
