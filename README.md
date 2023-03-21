@@ -1,32 +1,39 @@
-# Digital Skills Accelerator Training - NODE JS
+# Digital Skills Accelerator Training - QA
 
 # I. Bienvenida
+Bienvenido a tu capacitación de **NodeJS** que consta de 6 semanas de entrenamiento: 
 
-Bienvenido a tu capacitación de NodeJS con Angular/Typescript
+[Liga Acceso Telegram grupal](https://t.me/+WaWlhbXQ4qUwOGZh) 
+Importante unirse ya que toda la comunicación del curso se lleva por este medio.
+
+Calendario NodeJS Bloque 4<br>
+<img width="482" alt="Calendario NodeJS Bloque 4" src="https://user-images.githubusercontent.com/94467952/226643786-c5ef43e2-979f-4606-800a-3596a31f92f9.png">
 
 # II. Información general del entrenamiento
+El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento consta de los siguientes elementos: 
 
-El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento constará de los siguientes elementos:
+**Sesiones en Vivo** 
+- Son clases presenciales que imparten ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
+- Lunes y Martes: 9am y 2pm en oficinas de Wizeline - [Liga zoom](https://wizeline.zoom.us/j/89173238693) en caso que no puedan presentarse.
 
-**Sesiones en Vivo**
-
-- Estas serán clases presenciales que impartirán ingenieros de Wizeline, las sesiones tienen una duración de 2 horas.
+- En las sesiones en línea, es **obligatorio** tener la cámara prendida.
+- Debes asisitir a mínimo 8 sesiones presenciales para tener derecho a presentar tu Proyecto Final
+- En caso de no poder asistir a alguna sesión presencial y/o virtual, debes informarnos por Telegram y vía correo electrónico a Contacto DSA, con copia a Mercedes Vargas mevargas@gesech.com y a tu líder de gremio. 
 
 **Mentorías Grupales**
-
-- Son sesiones de mentoría en sitio que se llevarán después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías será de 2 horas.
+- Son sesiones de mentoría en sitio que se llevan a cabo después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías es de 2 horas.
+- Lunes y Martes: 11am en oficinas de Wizeline
 
 **Mentorías On Demand**
-
-- Estas serán sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son sobre demanda. Mas abajo están las instrucciones y ligas para solicitar una sesión.
+- Son sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son bajo demanda. Más abajo están las instrucciones y ligas para solicitar una sesión.
 
 **Ruta de Autoaprendizaje**
+- Es una recopilación de recursos (artículos, videos, audios) que ponemos a tu disposición para que complementes tu aprendizaje.
 
-- Esto es una recopilación de recursos (artículos, videos, audios) que pondremos a tu disposición para que complementes tu aprendizaje.
+**Proyecto Final Wizeline (Capstone Project)**
+- Es un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento. 
 
-**Proyecto Final (Capstone Project)**
-
-- Este será un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento.
+# III. Curricula del entrenamiento
 
 ## Sesiones
 
