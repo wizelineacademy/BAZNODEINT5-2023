@@ -7,7 +7,8 @@ Bienvenido a tu capacitación de **NodeJS** que consta de 6 semanas de entrenami
 Importante unirse ya que toda la comunicación del curso se lleva por este medio.
 
 Calendario NodeJS Bloque 4<br>
-<img width="482" alt="Calendario NodeJS Bloque 4" src="https://user-images.githubusercontent.com/94467952/226643786-c5ef43e2-979f-4606-800a-3596a31f92f9.png">
+<img width="476" alt="Screen Shot 2023-03-22 at 10 28 06" src="https://user-images.githubusercontent.com/114529977/226972652-ef5d4e7d-1b88-4f4c-9817-fba2a359edea.png">
+
 
 # II. Información general del entrenamiento
 El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimientos y habilidades en desarrollo de la mano de los ingenieros de Wizeline. El entrenamiento consta de los siguientes elementos: 
