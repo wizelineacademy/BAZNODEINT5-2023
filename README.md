@@ -1,4 +1,4 @@
-# Digital Skills Accelerator Training - QA
+# Digital Skills Accelerator Training - NODE
 
 # I. Bienvenida
 Bienvenido a tu capacitación de **NodeJS** que consta de 6 semanas de entrenamiento: 
@@ -7,7 +7,7 @@ Bienvenido a tu capacitación de **NodeJS** que consta de 6 semanas de entrenami
 Importante unirse ya que toda la comunicación del curso se lleva por este medio.
 
 Calendario NodeJS Bloque 4<br>
-<img width="476" alt="Screen Shot 2023-03-22 at 10 28 06" src="https://user-images.githubusercontent.com/114529977/226972652-ef5d4e7d-1b88-4f4c-9817-fba2a359edea.png">
+<img width="475" alt="Screen Shot 2023-03-22 at 10 29 49" src="https://user-images.githubusercontent.com/114529977/226973213-d9fb67f5-48e6-422c-9ca6-bb0cd687b223.png">
 
 
 # II. Información general del entrenamiento
