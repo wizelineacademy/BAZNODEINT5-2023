@@ -85,6 +85,10 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 5.  [Prototype](6/prototype/README.md)
 6.  [Singleton](6/singleton/README.md)
 
+## 📺 Grabaciones sesiones y Presentaciones
+
+En [esta liga](https://github.com/wizelineacademy/BAZNODE4-2023/blob/main/Grabaciones%20y%20Presentaciones.md) encontrarás todas las grabaciones y presentaciones del curso.
+
 # IV. Proyecto Final (Capstone Project)
 
 **Objetivo**
