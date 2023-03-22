@@ -6,18 +6,12 @@
     - [Entregable 1](#entregable-1)
         - [Requerimientos y Criterio de Evaluación](#requerimientos-y-criterio-de-evaluaci%C3%B3n)
 
-# Espacio de trabajo
-
-Primero acepta la siguienta asignación de github classroom para poder trabajar en el repositorio generado pues es allí donde realizarás tu entrega.
-
-[Asignación TBD]()
-
 # Definición del Proyecto
 El proyecto está conformado de ejercicios y tareas que se van realizando en las sesiones impartidas a lo largo del curso. Cada cierto tiempo se debera realizar un entregable abarcando los siguientes periodos:
   - Entregable 1 - Semanas 1 y 2
   - Entregable 2 - Semanas 3, 4, 5 y 6
 
-Se deberá enviar cada entrega en las fechas indicadas en la siguiente sección y para poder tener una `revisión` y `retroalimentación` se deberá enviar la URL de tu `Pull Request` a través del siguiente [formulario](https://forms.gle/v8pdBfR6UCd6bToG6), lo que nos indicará que está listo tu entregable para revisión.
+Se deberá enviar cada entrega en las fechas indicadas en la siguiente sección y para poder tener una `revisión` y `retroalimentación` se deberá enviar la URL de tu `Repositorio` a través del siguiente [formulario](https://forms.gle/yuRQaRx2abk5jTdv9), lo que nos indicará que está listo tu entregable para revisión.
 
 # Entregables
 ## Fechas de Entrega
