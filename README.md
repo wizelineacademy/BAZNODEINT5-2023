@@ -7,7 +7,8 @@ Bienvenido a tu capacitación de **NodeJS** que consta de 6 semanas de entrenami
 Importante unirse ya que toda la comunicación del curso se lleva por este medio.
 
 Calendario NodeJS Bloque 4<br>
-<img width="475" alt="Screen Shot 2023-03-22 at 10 29 49" src="https://user-images.githubusercontent.com/114529977/226973213-d9fb67f5-48e6-422c-9ca6-bb0cd687b223.png">
+<img width="476" alt="Screen Shot 2023-03-22 at 12 19 30" src="https://user-images.githubusercontent.com/114529977/227000527-1fab0411-08f5-42dc-b057-e3e5d21b959d.png">
+
 
 
 # II. Información general del entrenamiento
