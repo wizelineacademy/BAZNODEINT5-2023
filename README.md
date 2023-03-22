@@ -7,8 +7,7 @@ Bienvenido a tu capacitación de **NodeJS** que consta de 6 semanas de entrenami
 Importante unirse ya que toda la comunicación del curso se lleva por este medio.
 
 Calendario NodeJS Bloque 4<br>
-<img width="476" alt="Screen Shot 2023-03-22 at 12 19 30" src="https://user-images.githubusercontent.com/114529977/227000527-1fab0411-08f5-42dc-b057-e3e5d21b959d.png">
-
+<img width="476" alt="Calendario NodeJS Bloque 4" src="https://user-images.githubusercontent.com/94467952/227018363-334882f6-7f19-4608-a40d-29eaf408f66e.png">
 
 
 # II. Información general del entrenamiento
@@ -90,7 +89,18 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 
 En [esta liga](https://github.com/wizelineacademy/BAZNODE4-2023/blob/main/Grabaciones%20y%20Presentaciones.md) encontrarás todas las grabaciones y presentaciones del curso.
 
-# V. Proyecto Final (Capstone Project)
+# V. Agenda tu mentoria 📆
+Cada alumno/mentee debera contar con al menos 1 mentoria agendada por cada `Semana` del curso, para evaluar dudas de los temas de la semana o bien para validar los entregables correspondientes a cada semana.
+
+Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/EZ7E2XUbx4zvidNK8) al final de tu mentoría.
+
+### Mentores Asignados
+
+| Mentor               | Mentee                          |  Liga para agendar mentoria                |
+|----------------------|---------------------------------|--------------------------------------------|
+| `Neftali Ramos Jimenez`       | - VICTOR MANUEL SANCHEZ RODRIGUEZ   <br/> - DANIEL JESUS HEREDIA ROMERO | [Liga](https://calendly.com/neftali-ramos/mentoria-baz) |
+| `Arie Contreras Rodriguez`      | - HÉCTOR SALVADOR GARCIA OLVERA <br/> - JUAN DAVID OROPEZA MORA | [Liga](https://calendly.com/abner-arie/mentoria-baz) |
+# VI. Proyecto Final (Capstone Project)
 
 **Objetivo**
 Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo.
