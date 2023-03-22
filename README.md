@@ -85,11 +85,11 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 5.  [Prototype](6/prototype/README.md)
 6.  [Singleton](6/singleton/README.md)
 
-## 📺 Grabaciones sesiones y Presentaciones
+# IV. 📺 Grabaciones sesiones y Presentaciones
 
 En [esta liga](https://github.com/wizelineacademy/BAZNODE4-2023/blob/main/Grabaciones%20y%20Presentaciones.md) encontrarás todas las grabaciones y presentaciones del curso.
 
-# IV. Proyecto Final (Capstone Project)
+# V. Proyecto Final (Capstone Project)
 
 **Objetivo**
 Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo.
@@ -99,8 +99,9 @@ Para aprobar el curso tendrás que desarrollar un proyecto final en el cual refo
 [Aquí](Capstone%20Project.md) encontrarás las instrucciones para completar tu proyecto final.
 
 Para la revisión de tu Capstone Project se te asignará un mentor, el cual te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
+# VI. Mentores Asignados
 
-# VI. Contacto Wizeline DSA
+# VII. Contacto Wizeline DSA
 
 Si tienes alguna duda sobre el programa, logística, accesos, etc. por favor contacta al equipo de Wizeline DSA
 
