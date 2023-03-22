@@ -99,7 +99,8 @@ Para aprobar el curso tendrás que desarrollar un proyecto final en el cual refo
 [Aquí](Capstone%20Project.md) encontrarás las instrucciones para completar tu proyecto final.
 
 Para la revisión de tu Capstone Project se te asignará un mentor, el cual te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
-# VI. Mentores Asignados
+
+# VI. Agenda tu mentoría
 
 # VII. Contacto Wizeline DSA
 
