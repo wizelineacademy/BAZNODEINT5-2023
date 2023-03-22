@@ -100,8 +100,8 @@ Para aprobar el curso tendrás que desarrollar un proyecto final en el cual refo
 
 Para la revisión de tu Capstone Project se te asignará un mentor, el cual te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
 
-# VI. Contacto Wizeline Academy
+# VI. Contacto Wizeline DSA
 
-Si tienes alguna duda sobre el programa, logística, accesos, etc. por favor contacta al equipo de Wizeline Academy
+Si tienes alguna duda sobre el programa, logística, accesos, etc. por favor contacta al equipo de Wizeline DSA
 
 Email: [baz-dsa@wizeline.com](baz-dsa@wizeline.com)
