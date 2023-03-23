@@ -2,8 +2,8 @@
 Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cada sesión.
 
 # Semana 1
-- [Martes 22 Mar - GIT](https://drive.google.com/file/d/1AMk9wmYxpUF_IRWdjsBPO6Ur_XTwvNQ7/view?usp=share_link)
-- 📺 [Grabación Martes 22 Mar]()
+- [Martes 21 Mar - GIT](https://drive.google.com/file/d/1AMk9wmYxpUF_IRWdjsBPO6Ur_XTwvNQ7/view?usp=share_link)
+- 📺 [Grabación Martes 21 Mar](https://drive.google.com/file/d/1OJYrENBSMVS3VlId5KdH--mkOIZt3YkU/view?usp=sharing)
 - [Miércoles 22 Mar - Microservicios](https://drive.google.com/file/d/1H4VvWE_yJ6G4gQ1lh1j44R46_rIEsSDS/view?usp=sharing)
 - 📺 [Grabación Miércoles 21 Mar]()
 - [Jueves 23 Mar - Microservicios](https://drive.google.com/file/d/1H4VvWE_yJ6G4gQ1lh1j44R46_rIEsSDS/view?usp=sharing)
