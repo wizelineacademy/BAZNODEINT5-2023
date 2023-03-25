@@ -9,7 +9,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 23 Mar - Microservicios](https://drive.google.com/file/d/1H4VvWE_yJ6G4gQ1lh1j44R46_rIEsSDS/view?usp=sharing)
 - 📺 [Grabación Jueves 23 Mar](https://drive.google.com/file/d/1fynK6F4_t1b6HtNlk80Xg3PHwLc71v09/view?usp=sharing)
 - [Viernes 24 Mar - RestAPIs](https://drive.google.com/file/d/1uf91CQfwRzq2b-T6JcxfHXwVArJDMWpC/view?usp=sharing)
-- 📺 [Grabación Viernes 24 Mar]()
+- 📺 [Grabación Viernes 24 Mar](https://drive.google.com/file/d/1cHkWrfr6eonyiDU93_pfz5bVG0a2-nEb/view?usp=sharing)
 
 # Semana 2
 - [Lunes 27 Mar - Kafka](https://drive.google.com/file/d/1KQt5gJ9z7XvDPnv4AUP89R-fa9_CwrWi/view?usp=share_link)
