@@ -13,7 +13,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 # Semana 2
 - [Lunes 27 Mar - Kafka](https://drive.google.com/file/d/17MiN-nxB-JC4MJChQwTZwe19vgnJ72Zr/view?usp=sharing)
-- 📺 [Grabación Martes 27 Mar]()
+- 📺 [Grabación Martes 27 Mar](https://drive.google.com/file/d/1PxDdEJSXBhe2aJX0KkaFlhCiOSKVAjOr/view?usp=sharing)
 - [Martes 28 Mar - Kafka](https://drive.google.com/file/d/17MiN-nxB-JC4MJChQwTZwe19vgnJ72Zr/view?usp=sharing)
 - 📺 [Grabación Martes 21 Mar]()
 - [Miércoles 29 Mar - MongoDB](https://drive.google.com/file/d/1cJRJI05yAFDVMmT4H119mOhgJDd5CEqJ/view?usp=share_link)
