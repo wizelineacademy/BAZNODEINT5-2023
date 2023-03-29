@@ -26,7 +26,7 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 - Lunes y martes: 11am en oficinas de Wizeline
 
 **Mentorías On Demand**
-- Son sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son bajo demanda. Más abajo están las instrucciones y ligas para solicitar una sesión.
+- Son sesiones en donde puedes interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son bajo demanda. Más abajo están las instrucciones y ligas para solicitar una sesión.
 
 **Ruta de Autoaprendizaje**
 - Es una recopilación de recursos (artículos, videos, audios) que ponemos a tu disposición para que complementes tu aprendizaje.
@@ -90,7 +90,7 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 En [esta liga](https://github.com/wizelineacademy/BAZNODE4-2023/blob/main/Grabaciones%20y%20Presentaciones.md) encontrarás todas las grabaciones y presentaciones del curso.
 
 # V. Agenda tu mentoria 📆
-Cada alumno/mentee debera contar con al menos 1 mentoria agendada por cada `Semana` del curso, para evaluar dudas de los temas de la semana o bien para validar los entregables correspondientes a cada semana.
+Cada alumno/mentee debe contar con al menos 1 mentoria agendada por cada `Semana` del curso, para evaluar dudas de los temas de la semana o bien para validar los entregables.
 
 Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/EZ7E2XUbx4zvidNK8) al final de tu mentoría.
 
@@ -103,13 +103,13 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/EZ7E2XUbx4z
 # VI. Proyecto Final (Capstone Project)
 
 **Objetivo**
-Para aprobar el curso tendrás que desarrollar un proyecto final en el cual reforzaras y aplicaras los conocimientos que vas adquiriendo.
+Para aprobar el curso debes desarrollar un proyecto final en el cual reforzarás y aplicarás los conocimientos que vas adquiriendo.
 - Para poder presentar tu proyecto final, debes contar con un mínimo de **6 mentorías on-demand**
-- Se tomará en cuenta tu participación en sesiones presenciales y virtuales. 
+- Tu participación en sesiones presenciales y virtuales se tomará en cuenta.
 
 [Aquí](Capstone%20Project.md) encontrarás las instrucciones para completar tu proyecto final.
 
-Para la revisión de tu Capstone Project se te asignará un mentor, el cual te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
+Para la revisión de tu Capstone Project se te asignó un mentor quien te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
 
 # VI. Agenda tu mentoría
 
