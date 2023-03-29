@@ -107,7 +107,7 @@ Para aprobar el curso debes desarrollar un proyecto final en el cual reforzarás
 - Para poder presentar tu proyecto final, debes contar con un mínimo de **6 mentorías on-demand**
 - Tu participación en sesiones presenciales y virtuales se tomará en cuenta.
 
-[Aquí](Capstone%20Project.md) encontrarás las instrucciones para completar tu proyecto final.
+[Aquí](Capstone%20Project.md) encontrarás las instrucciones para completar tu proyecto final. Recuerda regitrar cada uno de tus entregables en este [formulario](https://forms.gle/U9KamGQhedhbyrL67)
 
 Para la revisión de tu Capstone Project se te asignó un mentor quien te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
 
