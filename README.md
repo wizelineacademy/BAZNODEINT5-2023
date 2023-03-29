@@ -35,6 +35,7 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 - Es un reto creado para poner en práctica los conocimientos adquiridos durante el entrenamiento. 
 
 # III. Curricula del entrenamiento
+Los temas estan divididos en 6 semanas, 5 sesiones por semana. 
 
 ## Sesiones
 
