@@ -89,18 +89,7 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 
 En [esta liga](https://github.com/wizelineacademy/BAZNODE4-2023/blob/main/Grabaciones%20y%20Presentaciones.md) encontrarás todas las grabaciones y presentaciones del curso.
 
-# V. Agenda tu mentoria 📆
-Cada alumno/mentee debe contar con al menos 1 mentoria agendada por cada `Semana` del curso, para evaluar dudas de los temas de la semana o bien para validar los entregables.
-
-Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/EZ7E2XUbx4zvidNK8) al final de tu mentoría.
-
-### Mentores Asignados
-
-| Mentor               | Mentee                          |  Liga para agendar mentoria                |
-|----------------------|---------------------------------|--------------------------------------------|
-| `Neftali Ramos Jimenez`       | - VICTOR MANUEL SANCHEZ RODRIGUEZ   <br/> - DANIEL JESUS HEREDIA ROMERO | [Liga](https://calendly.com/neftali-ramos/mentoria-baz) |
-| `Arie Contreras Rodriguez`      | - HÉCTOR SALVADOR GARCIA OLVERA <br/> - JUAN DAVID OROPEZA MORA | [Liga](https://calendly.com/abner-arie/mentoria-baz) |
-# VI. Proyecto Final (Capstone Project)
+# V. Proyecto Final (Capstone Project)
 
 **Objetivo**
 Para aprobar el curso debes desarrollar un proyecto final en el cual reforzarás y aplicarás los conocimientos que vas adquiriendo.
@@ -111,7 +100,17 @@ Para aprobar el curso debes desarrollar un proyecto final en el cual reforzarás
 
 Para la revisión de tu Capstone Project se te asignó un mentor quien te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
 
-# VI. Agenda tu mentoría
+# VI. Agenda tu mentoria 📆
+Cada alumno/mentee debe contar con al menos 1 mentoria agendada por cada `Semana` del curso, para evaluar dudas de los temas de la semana o bien para validar los entregables.
+
+Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/EZ7E2XUbx4zvidNK8) al final de tu mentoría.
+
+### Mentores Asignados
+
+| Mentor               | Mentee                          |  Liga para agendar mentoria                |
+|----------------------|---------------------------------|--------------------------------------------|
+| `Neftali Ramos Jimenez`       | - VICTOR MANUEL SANCHEZ RODRIGUEZ   <br/> - DANIEL JESUS HEREDIA ROMERO | [Liga](https://calendly.com/neftali-ramos/mentoria-baz) |
+| `Arie Contreras Rodriguez`      | - HÉCTOR SALVADOR GARCIA OLVERA <br/> - JUAN DAVID OROPEZA MORA | [Liga](https://calendly.com/abner-arie/mentoria-baz) |
 
 # VII. Contacto Wizeline DSA
 
