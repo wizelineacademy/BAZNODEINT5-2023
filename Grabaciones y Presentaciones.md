@@ -21,7 +21,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 30 Mar - MongoDB](https://drive.google.com/file/d/12th8Wc2iHEOCpDXZ3gzBUW9dFKOb3t18/view?usp=sharing)
 - 📺 [Grabación Jueves 30 Mar](https://drive.google.com/file/d/1qyWU2LN_QuWWTW1s1hg2DQUTLTlglJPm/view?usp=sharing)
 - [Viernes 31 Mar - MongoDB](https://drive.google.com/file/d/1gKsf5zWXFRiU1ul2FxwZRUqxWb6fz2n6/view?usp=sharing)
-- 📺 [Grabación Viernes 31 Mar]()
+- 📺 [Grabación Viernes 31 Mar](https://drive.google.com/file/d/1l04aWJo-DNIefl1gA8T86SpYlWwVLXsb/view?usp=sharing)
 
 # Semana 3
 - [Lunes 10 Abr - Javascript]()
