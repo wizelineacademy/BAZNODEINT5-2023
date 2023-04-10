@@ -45,8 +45,8 @@ Para poder considerar completadas las semanas 1 y 2 de entrenamiento debe contem
 | Dockerfile ejecutable                                                                                                               | 10          |
 | Archivo de Docker Compose que permita levantar el contendor                                                                         | 10          |
 | Colección de Postman realizando una petición de cada tipo (`GET`, `POST`, `PUT`, `PATCH`, `DEL`) a una API pública y una captura de pantalla mostrando las variables de ambiente o a nivel de colección                                                                                                                             | 10          |
-| Impresiones de pantalla de la Función Lambda creada en la cuenta que permita la ejecución del código y REST Endpoint de la API Gateway asociada a la funcion Lambda                                                                                                                                | 10          |
-| Captura de pantalla de logs en Cloudwatch                                                                                           | 10          |
+| Impresiones de pantalla de la Función Lambda creada en la cuenta que permita la ejecución del código y REST Endpoint de la API Gateway asociada a la funcion Lambda * (Opcional)                                                                                                                                | 10          |
+| Captura de pantalla de logs en Cloudwatch * (Opcional)                                                                                          | 10          |
 | Capturas de pantalla de las terminales de productor y consumidor y del comando `--describe` del tópico mostrando las particiones    | 10          |
 | Base de datos de MongoDB exportada                                                                                                  | 10          |
 | Impresión de pantalla de operaciones CRUD (find con query selector, update con query selector, insert) en datos reales de MongoDB   | 10          |
