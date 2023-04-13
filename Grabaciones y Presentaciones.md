@@ -26,8 +26,8 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 # Semana 3
 - [Lunes 10 Abr - 14 Abr Javascript](https://drive.google.com/file/d/1Kx4C5Y2l0cizfiRdO5JsSNOuQbNuhS-I/view?usp=sharing)
 - 📺 [Grabación Martes 10 Abr](https://drive.google.com/file/d/1CNkqbC_VIHVUrnomzo58kPfnZT8lKB7I/view?usp=sharing)
-- 📺 [Grabación Martes 11 Abr]()
-- 📺 [Grabación Miércoles 12 Abr]()
+- 📺 [Grabación Martes 11 Abr](https://drive.google.com/file/d/1R5ekenoOvHtxXXncy_jm8B-fU2BwzAKW/view?usp=sharing)
+- 📺 [Grabación Miércoles 12 Abr](https://drive.google.com/file/d/1vChdgvgWRVPvJoXi8Gh1o4rXU2SK_M9A/view?usp=sharing)
 - 📺 [Grabación Jueves 13 Abr]()
 - 📺 [Grabación Viernes 14 Abr]()
 
