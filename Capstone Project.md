@@ -57,13 +57,13 @@ Para poder considerar completadas las semanas 3 a la 6 de entrenamiento debe con
 
 | **Tópico** (Requerimientos Capstone Project)                                                                                        | **Puntaje** |
 |-------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| FE en Angular+Typescript y BE en Nodejs                                                                                           | 10          |
+| FE en Angular+Typescript y BE en Nodejs (Puedes utilizar cualquier framework de Nodejs)                                             | 10          |
 | El Backend debe estar Dockerizado                                                                                                   | 10          |
 | Manejo de una arquitectura REST API                                                                                                 | 10          |
-| Llamados asíncronos a un API                                                                                                        | 10          |
+| Llamados asíncronos a un API, ya sea a tu propio BE o algun servicios de tercero.                                                   | 10          |
 | Por lo menos una entrada global para buscar/filtrar contenido (Search, Categories, Filter, etc)                                     | 10          |
 | Diseño responsivo utilizando la estrategia de Mobile First                                                                          | 10          |
 | Tener nuestros repositorios (FE/BE) publicados en Github                                                                            | 10          |
-| Contar con una de las siguientes funcionalidades: <br> * Catálogo de productos e.g (E-commerce) <br> * Integración con algún servicios de terceros (Mapas, Pagos, otros) <br> * Gamificación <br> * Gráficos basados en HTML (Chart.js, D3js, Otros) </p>                                | 30          |
+| Contar por lo menos con una de las siguientes funcionalidades: <br> * Catálogo de productos e.g (E-commerce) <br> * Integración con algún servicios de terceros, ya sea desde FE o BE; El que mas te guste e.g (Mapas, Pagos, otros) <br> * Gamificación <br> * Gráficos basados en HTML (Chart.js, D3js, Otros) </p>                                | 30          |
 | **Total**                                                                                                                           | **100**     |
 | **Mínimo Aprobatorio**                                                                                                              | 80          |
