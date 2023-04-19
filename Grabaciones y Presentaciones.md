@@ -33,7 +33,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 # Semana 4
 - [Lunes 17 Abr - 21 Abr: Angular](https://drive.google.com/file/d/1r_IowD7ts_ZBp_jpr4pJ0G-uI2EaCiTv/view?usp=sharing)
-- 📺 [Grabación Lunes 17 Abr]()
+- 📺 [Grabación Lunes 17 Abr](https://drive.google.com/file/d/111WTZ1pNchanex1TPbRQBwGYlOIdfc-l/view?usp=sharing)
 - 📺 [Grabación Martes 18 Abr]()
 - 📺 [Grabación Miércoles 19 Abr]()
 - 📺 [Grabación Jueves 20 Abr]()
