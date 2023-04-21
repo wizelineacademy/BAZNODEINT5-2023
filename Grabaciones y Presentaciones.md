@@ -36,7 +36,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabación Lunes 17 Abr](https://drive.google.com/file/d/111WTZ1pNchanex1TPbRQBwGYlOIdfc-l/view?usp=sharing)
 - 📺 [Grabación Martes 18 Abr](https://drive.google.com/file/d/1KLTzvjivDwa85V5ntlO90XcMo2odMjwe/view?usp=sharing)
 - 📺 [Grabación Miércoles 19 Abr](https://drive.google.com/file/d/1brXigP3ygVtmZuB3csco4zK9edDUUHLG/view?usp=sharing)
-- 📺 [Grabación Jueves 20 Abr]()
+- 📺 [Grabación Jueves 20 Abr](https://drive.google.com/file/d/1aOyEkIUwEhrf2SJeL_a5-huj8rM83To_/view?usp=sharing)
 - 📺 [Grabación Viernes 21 Abr]()
 
 # Semana 5
