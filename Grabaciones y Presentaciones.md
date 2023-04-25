@@ -41,7 +41,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 
 # Semana 5
 - [Lunes 24 Abr - 28 Abr: NodeJS](https://drive.google.com/file/d/1VqwX0at2lqD02GQZNViAdG4ib1RdkfxF/view?usp=sharing)
-- 📺 [Grabación Martes 24 Abr]()
+- 📺 [Grabación Lunes 24 Abr](https://drive.google.com/file/d/1qWwgpSUOezFqJWv8cbAvoF40Dq35BYHD/view?usp=sharing)
 - 📺 [Grabación Martes 25 Abr]()
 - 📺 [Grabación Miércoles 26 Abr]()
 - 📺 [Grabación Jueves 27 Abr]()
