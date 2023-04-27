@@ -43,7 +43,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Lunes 24 Abr - 28 Abr: NodeJS](https://drive.google.com/file/d/1VqwX0at2lqD02GQZNViAdG4ib1RdkfxF/view?usp=sharing)
 - 📺 [Grabación Lunes 24 Abr](https://drive.google.com/file/d/1qWwgpSUOezFqJWv8cbAvoF40Dq35BYHD/view?usp=sharing)
 - 📺 [Grabación Martes 25 Abr](https://drive.google.com/file/d/1zXPZypf3NUZSzI7wEpE6bEqirIRuaXV3/view?usp=sharing)
-- 📺 [Grabación Miércoles 26 Abr]()
+- 📺 [Grabación Miércoles 26 Abr](https://drive.google.com/file/d/1VOE0oG8AizPC88tdugECv3jDHxiVw182/view?usp=sharing)
 - 📺 [Grabación Jueves 27 Abr]()
 - 📺 [Grabación Viernes 28 Abr]()
 
