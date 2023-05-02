@@ -48,7 +48,6 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabación Viernes 28 Abr](https://drive.google.com/file/d/1Ak7H8Kb9td2ey7wzoBki5LOff5dggCXC/view?usp=sharing)
 
 # Semana 6
-- [Martes 2 May - Clean Code]()
-- 📺 [Grabación Martes 2 May]()
-- [Miércoles 3 al 5 May - Capstone Project]()
+- [Martes 2 May - Clean Code](https://drive.google.com/file/d/1UAtfoa3irtnKb3hkNYp-289jAja3-QD9/view?usp=sharing)
+- 📺 [Grabación Martes 2 May](https://drive.google.com/file/d/1GLRN4JupR78FvBlDgH1dGvoMltELQ9B9/view?usp=sharing)
 - 📺 [Grabación Miércoles 3 May]()
