@@ -50,4 +50,4 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 # Semana 6
 - [Martes 2 May - Clean Code](https://drive.google.com/file/d/1UAtfoa3irtnKb3hkNYp-289jAja3-QD9/view?usp=sharing)
 - 📺 [Grabación Martes 2 May](https://drive.google.com/file/d/1GLRN4JupR78FvBlDgH1dGvoMltELQ9B9/view?usp=sharing)
-- 📺 [Grabación Miércoles 3 May]()
+
