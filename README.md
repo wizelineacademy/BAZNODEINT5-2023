@@ -113,7 +113,7 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/7zLdZfhoqgA
 | `Edgar Valencia`       | - ALEJANDRO CESAR CORREA GUZMAN   <br/> - ALAN OMAR LOZADA SANCHEZ | [Liga]() |
 | `José Vaca Ciprés`      | - LUIS ALBERTO MONJARAZ ZAVALA <br/> - JOSE ENRIQUE PEREZ ARELLANO   | [Liga]() |
 | `Daniel Martínez`      | - LUIS ALBERTO LOPEZ AVILES <br/> - PEDRO ANGELES MAQUEDA | [Liga]() |
-| `RIcardo Escobedo`      | - RAÚL CONRADO SÁNCHEZ ALTAMIRANO <br/> - EDGAR MISAEL MEDINA DÍAZ | [Liga]() |
+| `Ricardo Escobedo`      | - RAÚL CONRADO SÁNCHEZ ALTAMIRANO <br/> - EDGAR MISAEL MEDINA DÍAZ | [Liga]() |
 
 # VII. Contacto Wizeline DSA
 
