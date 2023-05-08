@@ -6,7 +6,7 @@ Bienvenido a tu capacitación de **NodeJS** que consta de 6 semanas de entrenami
 [Liga Acceso Telegram grupal]( https://t.me/+qQStR31p82A2OThh) 
 Importante unirse ya que toda la comunicación del curso se lleva por este medio.
 
-Calendario NodeJS Bloque 4<br>
+Calendario NodeJS Bloque 5 <br>
 ![Screen Shot 2023-05-08 at 13 32 42](https://user-images.githubusercontent.com/114529977/236916006-8f20412e-6b27-4f15-a52b-5650a80dcd75.png)
 
 
