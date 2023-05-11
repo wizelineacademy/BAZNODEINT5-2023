@@ -72,10 +72,16 @@ Los temas estan divididos en 6 semanas, 5 sesiones por semana.
 
 ### Semana 5 - NodeJS
 
-1.  [Manipulación de archivos I/O sync & async](5/manipulacionArchivos/README.md)
-2.  [Module system](5/moduleSystem/README.md)
-3.  [Event Emitters & Buffers](5/eventEmitters/README.md)
-4.  [REST (Http Client)](5/rest/README.md)
+1.  [ESLint & Prettier]()
+2.  [Web frameworks (ExpressJS)]()
+3.  [Rest API with express & handling API JSON REST]()
+4.  [Callback hell]()
+5.  [Middleware & Error handling]()
+6.  [State Management]()
+7.  [Template Engines]()
+8.  [Database Connection (SQL & NoSQL)]()
+9.  [Mongoose]()
+10. [Testing]()
 
 ### Semana 6 - Clean Code
 
