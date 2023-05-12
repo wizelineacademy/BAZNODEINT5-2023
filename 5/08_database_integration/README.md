@@ -7,7 +7,7 @@
 
 ## :books: Temas
 
-### Database integration
+### I. Database integration
 
 Express ofrece la capacidad de poder conectarse a una variedad de base datos simplemente importando los controladores adecuados para NodeJS.
 
@@ -15,7 +15,7 @@ Existen dos tipos de base da datos: SQL y NoSQL
 
 A continuación daremos una breve explicación de en que consisten y de como es la configuración inicial para cada uno de ellos
 
-#### SQL
+#### 1. SQL
 
 SQL significa Lenguaje de consulta estructurado. Este lenguaje permite manejar la información mediante tablas y muestra un lenguaje para consultar estas tablas y otros objetos relacionados (vistas, funciones, procedimientos, etc.). La mayoría de las bases de datos como SQL Server, Oracle, PostgreSQL, MySQL, MariaDB manejan este lenguaje para manejar los datos.
 
@@ -51,7 +51,7 @@ connection.query('SELECT 1 + 1 AS solution', (err, rows, fields) => {
 connection.end()
 ```
 
-#### NoSQL
+#### 2. NoSQL
 
 NoSQL es una base de datos no relacional que almacena y accede a datos mediante valores clave. En lugar de almacenar datos en filas y columnas como una base de datos tradicional, se almacena cada elemento individualmente con una clave única. Además, una base de datos NoSQL no requiere un esquema estructurado que defina cada tabla y las columnas relacionadas. Esto proporciona un enfoque mucho más flexible para almacenar datos que una base de datos relacional.
 

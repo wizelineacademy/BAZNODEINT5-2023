@@ -7,7 +7,7 @@
 
 ## :books: Temas
 
-### Diferencia entre una ODM y una ORM
+### I. Diferencia entre una ODM y una ORM
 
 Existen dos tipos de configuraciones para trabajar con bases de datos:
 
@@ -18,7 +18,7 @@ ORM se aplica en entornos donde se utiliza una base de datos relacional, como My
 
 Por otro lado, ODM se utiliza en entornos donde se emplean bases de datos NoSQL, como MongoDB. Al igual que ORM, ODM también mapea objetos en estructuras de datos, pero en este caso, se representan como documentos BSON (BinData JSON) en la base de datos. ODM permite interactuar con la base de datos NoSQL utilizando modelos y métodos orientados a objetos, simplificando la persistencia y recuperación de datos.
 
-### I. Moongose
+### II. Moongose
 
 Mongoose es una biblioteca de modelado de objetos para MongoDB en Node.js. Proporciona una capa de abstracción sobre MongoDB, lo que facilita la interacción con la base de datos y agiliza el desarrollo.
 
@@ -30,7 +30,7 @@ Para instalar, basta con ejecutar el siguiente comando en el root de nuestro pro
 npm install mongoose --save
 ```
 
-#### Schemas
+#### 1. Schemas
 
 Un esquema defina la estructura que tendrá una entidad en la colección de la base de datos.
 
@@ -53,7 +53,7 @@ const blogSchema = new Schema({
 
 ```
 
-#### Modelos
+#### 2. Modelos
 
 Los modelos son constructores de instancias de un esquema. Una instancia de un modelo se le conoce como documentos. Los modelos son responsables de crear y leer documentos en una base de datos.
 
@@ -65,7 +65,7 @@ newPost.save((err) => {
 })
 ```
 
-#### Queries
+#### 3. Queries
 
 Para poder obtener un documento de la base de datos, mongoose nos provee un abanico de opciones para realizar consultas. A continuación colocamos la sintaxis básica para Leer, Actualizar y Borrar.
 

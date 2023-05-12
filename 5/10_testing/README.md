@@ -11,7 +11,7 @@
 
 El testing de software asegura que un programa o aplicación funcione sin errores. Se evalúa la funcionalidad y se cumplen requisitos para entregar calidad. Se ejecutan componentes con herramientas manuales o automatizadas para evaluar propiedades clave. Es un proceso paralelo al desarrollo para evitar problemas antes del lanzamiento.
 
-#### II. Objetivos del testing de software
+### II. Objetivos del testing de software
 
 - Detectar y corregir errores.
 - Garantizar calidad y confiabilidad del software.
@@ -50,5 +50,4 @@ Para ejecutar las pruebas, simplemente ejecuta el comando jest en la terminal. J
 
 ## :mag: Para saber más
 
-- [Jest]("https://jestjs.io/)
-- 
+- [Jest]("https://jestjs.io/")
