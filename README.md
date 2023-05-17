@@ -117,7 +117,7 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/7zLdZfhoqgA
 | Mentor               | Mentee                          |  Liga para agendar mentoria                |
 |----------------------|---------------------------------|--------------------------------------------|
 | `Neftalí Ramos`       | - ALEJANDRO CESAR CORREA GUZMAN   <br/> - ALAN OMAR LOZADA SANCHEZ | [Liga]() |
-| `Jorge Hernández`      | - LUIS ALBERTO MONJARAZ ZAVALA <br/> - JOSE ENRIQUE PEREZ ARELLANO   | [Liga]() |
+| `Jorge Hernández`      | - LUIS ALBERTO MONJARAZ ZAVALA <br/> - JOSE ENRIQUE PEREZ ARELLANO   | [Liga](https://calendly.com/miguel-hernandez-9/1-hour-meeting) |
 | `Daniel Martínez`      | - LUIS ALBERTO LOPEZ AVILES <br/> - PEDRO ANGELES MAQUEDA | [Liga]() |
 | `Ricardo Escobedo`      | - RAÚL CONRADO SÁNCHEZ ALTAMIRANO <br/> - EDGAR MISAEL MEDINA DÍAZ | [Liga]() |
 
