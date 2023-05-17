@@ -116,8 +116,8 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/7zLdZfhoqgA
 
 | Mentor               | Mentee                          |  Liga para agendar mentoria                |
 |----------------------|---------------------------------|--------------------------------------------|
-| `Edgar Valencia`       | - ALEJANDRO CESAR CORREA GUZMAN   <br/> - ALAN OMAR LOZADA SANCHEZ | [Liga]() |
-| `José Vaca Ciprés`      | - LUIS ALBERTO MONJARAZ ZAVALA <br/> - JOSE ENRIQUE PEREZ ARELLANO   | [Liga]() |
+| `Neftalí Ramos`       | - ALEJANDRO CESAR CORREA GUZMAN   <br/> - ALAN OMAR LOZADA SANCHEZ | [Liga]() |
+| `Jorge Hernández`      | - LUIS ALBERTO MONJARAZ ZAVALA <br/> - JOSE ENRIQUE PEREZ ARELLANO   | [Liga]() |
 | `Daniel Martínez`      | - LUIS ALBERTO LOPEZ AVILES <br/> - PEDRO ANGELES MAQUEDA | [Liga]() |
 | `Ricardo Escobedo`      | - RAÚL CONRADO SÁNCHEZ ALTAMIRANO <br/> - EDGAR MISAEL MEDINA DÍAZ | [Liga]() |
 
