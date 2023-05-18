@@ -42,6 +42,7 @@ Para poder considerar completadas las semanas 1 y 2 de entrenamiento debe contem
 |-------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | Screenshots para el flujo de creación de ramas: `git branch`, `git checkout`, `git switch`                                          | 10          |
 | Screenshots para el flujo de unión y almacenamiento de ramas: `git merge`, `git stash`                                              | 10          |
+| Screenshot para el flujo de integración de ramas: `git rebase`, `git cherry-pick`                                                   | 10          |
 | Dockerfile ejecutable                                                                                                               | 10          |
 | Archivo de Docker Compose que permita levantar el contendor                                                                         | 10          |
 | Pod de Kubernetes desplegando el contenedor                                                                                         | 10          |
@@ -50,8 +51,8 @@ Para poder considerar completadas las semanas 1 y 2 de entrenamiento debe contem
 | Captura de pantalla de logs en Cloudwatch                                                                                           | 10          |
 | Base de datos de MongoDB exportada                                                                                                  | 10          |
 | Captura de pantalla de la base de datos replicada                                                                                   | 10          |
-| **Total**                                                                                                                           | **100**     |
-| **Mínimo Aprobatorio**                                                                                                              | 80          |
+| **Total**                                                                                                                           | **110**     |
+| **Mínimo Aprobatorio**                                                                                                              | 90          |
 
 Para poder considerar completadas las semanas 3 a la 6 de entrenamiento debe contemplar lo siguiente:
 
