@@ -119,7 +119,7 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/7zLdZfhoqgA
 | `Neftalí Ramos`       | - ALEJANDRO CESAR CORREA GUZMAN   <br/> - ALAN OMAR LOZADA SANCHEZ | [Liga]() |
 | `Jorge Hernández`      |- RAÚL CONRADO SÁNCHEZ ALTAMIRANO <br/> - LUIS ALBERTO MONJARAZ ZAVALA     | [Liga](https://calendly.com/miguel-hernandez-9/1-hour-meeting) |
 | `Daniel Martínez`      | - JOSE ENRIQUE PEREZ ARELLANO  <br/> - EDGAR MISAEL MEDINA DÍAZ | [Liga]() |
-| `Ricardo Escobedo` | LUIS ALBERTO LOPEZ AVILES <br/> - PEDRO ANGELES MAQUEDA      | [Liga]() |
+| `Ricardo Escobedo` | - LUIS ALBERTO LOPEZ AVILES <br/> - PEDRO ANGELES MAQUEDA      | [Liga]() |
 
 # VII. Contacto Wizeline DSA
 
