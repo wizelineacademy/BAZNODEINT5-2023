@@ -19,7 +19,7 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 - Miércoles y jueves: 9am en oficinas de Wizeline - [Liga zoom](https://wizeline.zoom.us/j/86400837276) en caso que no puedan presentarse (con previo aviso a tus líderes).
 - En las sesiones en línea, es **obligatorio** tener la cámara prendida.
 - Debes asisitir a mínimo 10 sesiones presenciales para tener derecho a presentar tu Proyecto Final
-- En caso de no poder asistir a alguna sesión presencial y/o virtual, debes informarnos por Telegram y vía correo electrónico a Contacto DSA: baz-dsa@wizeline.com, con copia a Mercedes Vargas: mevargas@gesech.com y a tu líder de gremio. 
+- En caso de no poder asistir a alguna sesión presencial y/o virtual, debes informarnos por Telegram y vía correo electrónico a Contacto DSA: baz-dsa@wizeline.com, con copia a Mercedes Vargas: mevargas@gesech.com y a tus formadores. 
 
 **Mentorías Grupales**
 - Son sesiones de mentoría en sitio que se llevan a cabo después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías es de 2 horas.
