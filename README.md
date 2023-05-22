@@ -94,7 +94,7 @@ Los temas estan divididos en 6 semanas, 5 sesiones por semana.
 
 # IV. 📺 Grabaciones sesiones y Presentaciones
 
-En [esta liga](https://github.com/wizelineacademy/BAZNODE4-2023/blob/main/Grabaciones%20y%20Presentaciones.md) encontrarás todas las grabaciones y presentaciones del curso.
+En [esta liga](https://github.com/wizelineacademy/BAZNODEINT5-2023/blob/main/Grabaciones%20y%20Presentaciones.md) encontrarás todas las grabaciones y presentaciones del curso.
 
 # V. Proyecto Final (Capstone Project)
 
