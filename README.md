@@ -116,10 +116,10 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/7zLdZfhoqgA
 
 | Mentor               | Mentee                          |  Liga para agendar mentoria                |
 |----------------------|---------------------------------|--------------------------------------------|
-| `Neftalí Ramos`       | - ALEJANDRO CESAR CORREA GUZMAN   <br/> - ALAN OMAR LOZADA SANCHEZ | [Liga]() |
-| `Jorge Hernández`      |- RAÚL CONRADO SÁNCHEZ ALTAMIRANO <br/> - LUIS ALBERTO MONJARAZ ZAVALA     | [Liga](https://calendly.com/miguel-hernandez-9/1-hour-meeting) |
-| `Daniel Martínez`      | - JOSE ENRIQUE PEREZ ARELLANO  <br/> - EDGAR MISAEL MEDINA DÍAZ | [Liga]() |
-| `Ricardo Escobedo` | - LUIS ALBERTO LOPEZ AVILES <br/> - PEDRO ANGELES MAQUEDA      | [Liga]() |
+| `Neftalí Ramos`       | - ALEJANDRO CESAR CORREA GUZMAN   <br/> - ALAN OMAR LOZADA SANCHEZ | [Liga](https://calendly.com/neftali-ramos/mentoria-baz?month=2023-05) |
+| `Jorge Hernández`      |- RAÚL CONRADO SÁNCHEZ ALTAMIRANO <br/> - LUIS ALBERTO MONJARAZ ZAVALA     | [Liga](https://calendly.com/miguel-hernandez-9/1-hour-meeting?month=2023-05) |
+| `Daniel Martínez`      | - JOSE ENRIQUE PEREZ ARELLANO  <br/> - EDGAR MISAEL MEDINA DÍAZ | [Liga](https://calendly.com/daniel-martinez-wizeline/node-mentoring?month=2023-05) |
+| `Ricardo Escobedo` | - LUIS ALBERTO LOPEZ AVILES <br/> - PEDRO ANGELES MAQUEDA      | [Liga](https://calendly.com/d/ytd-4pr-t5w/richesc_baz_60min?month=2023-05) |
 
 # VII. Contacto Wizeline DSA
 
