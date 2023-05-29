@@ -6,7 +6,7 @@
 - 📺 [Grabación Miércoles 24 Mayo](https://drive.google.com/file/d/1P9CgsFyYecrcsn7vT2tITZHZMr_oYFMm/view?usp=share_link)
 - [Jueves y Vierness 25,26 Mayo - Serverless](https://drive.google.com/file/d/1Q0ci1TDehBuHM-2jGMJp_HxSYWCxV8Aj/view?usp=sharing)
 - 📺 [Grabación Jueves 25 Mayo](https://drive.google.com/file/d/10bVU9dT-xMGIAH2chgSbN-Q0fj0v2EFS/view?usp=share_link)
-- 📺 [Grabación Viernes 26 Mayo]()
+- 📺 [Grabación Viernes 26 Mayo](https://drive.google.com/file/d/136IBH-ly9jTstVprd9UJ0m2DGxR8PYSd/view?usp=share_link)
 
 # Semana 2
 - [Lunes y Martes 29,30 Mayo - Kafka](https://drive.google.com/file/d/1d0F31QVdxriMjViy24urpuCuPrnjvdIY/view?usp=sharing)
