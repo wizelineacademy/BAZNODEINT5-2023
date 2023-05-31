@@ -12,7 +12,7 @@
 - [Lunes y Martes 29,30 Mayo - Kafka](https://drive.google.com/file/d/1d0F31QVdxriMjViy24urpuCuPrnjvdIY/view?usp=sharing)
 - 📺 [Grabación Lunes 29 Mayo](https://drive.google.com/file/d/1oqOJfCCaw9nImW_t5jMTqtLAFXtFS5a3/view?usp=share_link)
 - 📺 [Grabación Martes 30 Mayo](https://drive.google.com/file/d/17NvvFVAsOntOeoubRhDxptSmvLSFKmcp/view?usp=share_link)
-- [Miercoles, Jueves y Vierness 31 Mayo,1 Junio, 2 Junio - Mongo DB](
+- [Miercoles, Jueves y Vierness 31 Mayo,1 Junio, 2 Junio - Mongo DB](https://drive.google.com/file/d/1-MFd5gDATTquio7_GVSsvWNVuETuOScY/view?usp=share_link)
 - 📺 [Grabación Miércoles 31 Mayo](
 - 📺 [Grabación Jueves 1 Junio](
 - 📺 [Grabación Viernes 2 Junio](
