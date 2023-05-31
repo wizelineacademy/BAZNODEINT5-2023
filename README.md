@@ -53,22 +53,19 @@ Los temas estan divididos en 6 semanas, 5 sesiones por semana.
 
 ### Semana 3 - Javascript
 
-1.  [Iteradores](3/iteradores/README.md)
-2.  [Arreglos (Crud, matrices, etc)](3/arreglos/README.md)
-3.  [Objetos literales (Crud, Mezclando arreglos y objetos, etc)](3/objetosLiterales/README.md)
-4.  [Funciones](3/funciones/README.md)
+1.  [Prototipos](3/prototipos/README.md)
+2.  [ES6](3/es6/README.md)
+3.  [Generadores](3/generadores/README.md)
+4.  [Scope(contexto)](3/scope/README.md)
+5.  [Manipulacion del Dom](3/dom/README.md)
+6.  [Unit testing](3/testing/README.md)
 
 ### Semana 4 - Angular
 
-1.  [Interfaces y Tipos](4/interfacesTipos/README.md)
-2.  [Structural vs Nominal types](4/structuralTiposNominales/README.md)
-3.  [Typing functions](4/typingFunctions/README.md)
-4.  [Arreglos & Tuplas](4/arreglosTuplas/README.md)
-5.  [Type Casting](4/typeCasting/README.md)
-6.  [Plantillas](4/plantillas/README.md)
-7.  [Directivas](4/directivas/README.md)
-8.  [Formularios](4/formularios/README.md)
-9.  [Hooks de Ciclo de Vida](4/hooksCicloDeVida/README.md)
+1.  [Routing & Guards](4/routing/README.md)
+2.  [Directivas personalizadas](4/customDirectives/README.md)
+3.  [Pipes personalizados](4/customPipes/README.md)
+4.  [Testing](4/testing/README.md)
 
 ### Semana 5 - NodeJS
 
@@ -85,12 +82,7 @@ Los temas estan divididos en 6 semanas, 5 sesiones por semana.
 
 ### Semana 6 - Clean Code
 
-1.  [Revealing module pattern](6/revealingModulePattern/README.md)
-2.  [Factory Method](6/factoryMethod/README.md)
-3.  [Abstract Factory](6/abstractFactory/README.md)
-4.  [Builder](6/builder/README.md)
-5.  [Prototype](6/prototype/README.md)
-6.  [Singleton](6/singleton/README.md)
+1.  [Patrones de diseño](6/designPatterns/README.md)
 
 # IV. 📺 Grabaciones sesiones y Presentaciones
 
