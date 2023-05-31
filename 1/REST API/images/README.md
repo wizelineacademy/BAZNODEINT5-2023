@@ -1,1 +1,0 @@
-### 🌇 IMAGES FOR REST API
