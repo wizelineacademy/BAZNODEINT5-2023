@@ -112,3 +112,79 @@ La salida del siguiente código es la siguiente:
 Hola Ben
 Bienvenido a las Herramientas de Admin
 ```
+#
+# Default REST y Spread
+
+## Spread
+
+### Ejercicio 1: Ejemplo de Spread.
+
+El siguiente bloque presenta un ejemplo de un dispersion enviada a una funcion que recibe tres parametros
+
+```js
+let numeros = [2,3,5];
+
+function sumar(n1,n2,n3){
+    return n1 + n2 + n3
+}
+
+let resultado = sumar(...numeros);
+console.log(resultado);
+```
+
+La salida es: 
+```bash
+10
+```
+
+### Ejercicio 2: Combiando Objetos.
+
+El siguiente bloque de codigo presenta dos objetos con una llave, se imprimen ambos objetos y se crea un tercero usando el operador de dispercion (Spread Operator) y se imprime la salida.
+
+```js
+let objeto1 = {
+    key: 3
+}
+
+let objeto2 = {
+    primaryKey: 2009
+}
+
+console.log(objeto1);
+console.log(objeto2);
+
+let combinado = {
+    ...objeto1,
+    ...objeto2
+}
+
+console.log(combinado)
+```
+La salida es: 
+```bash
+{ key: 3 }
+{ primaryKey: 2009 }
+{ key: 3, primaryKey: 2009 }
+```
+
+## REST
+
+### Ejercicio 1: Ejemplo de Rest
+
+El siguiente bloque presenta una funcion que recibe como primer parametro un nombre y como segundo parametro un n cantidad de numeros
+```js
+function numerosDeLaSuerte(name, ...numbers){
+    console.log(`Hola ${name} tus numeros de la suerte son: ${numbers}` )
+}
+
+let suerte = numerosDeLaSuerte("Hurley", 4,8,15,16,23,42)
+
+let luckyNumbers = [4,8,15,16,23,42]
+let suerte2 = numerosDeLaSuerte("Jack", ...luckyNumbers)
+```
+
+La salida es: 
+```bash
+Hola Hurley tus numeros de la suerte son: 4,8,15,16,23,42
+Hola Jack tus numeros de la suerte son: 4,8,15,16,23,42
+```
