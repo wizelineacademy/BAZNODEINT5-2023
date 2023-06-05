@@ -16,3 +16,11 @@
 - 📺 [Grabación Miércoles 31 Mayo](https://drive.google.com/file/d/1bZF9b5KBRp4X0StMKOcH4DoTYvtT0oac/view?usp=share_link)
 - 📺 [Grabación Jueves 1 Junio](
 - 📺 [Grabación Viernes 2 Junio](
+
+# Semana 2
+- [Lunes 5 Junio a Viernes 9 Junio - Javascript]([https://drive.google.com/file/d/1E8WTYxizJEgzoWIWP_cUnJpONcgAV2O0/view?usp=sharing)
+- 📺 [Grabación Lunes 5 Junio]
+- 📺 [Grabación Martes 6 Junio]
+- 📺 [Grabación Miércoles 7 Junio]
+- 📺 [Grabación Jueves 8 Junio]
+- 📺 [Grabación Viernes 8 Junio]
