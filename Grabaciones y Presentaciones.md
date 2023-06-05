@@ -15,7 +15,7 @@
 - [Miercoles, Jueves y Vierness 31 Mayo,1 Junio, 2 Junio - Mongo DB](https://drive.google.com/file/d/1-MFd5gDATTquio7_GVSsvWNVuETuOScY/view?usp=share_link)
 - 📺 [Grabación Miércoles 31 Mayo](https://drive.google.com/file/d/1bZF9b5KBRp4X0StMKOcH4DoTYvtT0oac/view?usp=share_link)
 - 📺 [Grabación Jueves 1 Junio](https://drive.google.com/file/d/1WBj4KcPDk-1A5AxckvRV94Nzv9TqJNYT/view?usp=drive_link)
-- 📺 [Grabación Viernes 2 Junio](
+- 📺 [Grabación Viernes 2 Junio](https://drive.google.com/file/d/14MSD1QVWOuzy94QAAzX7LpaQno9-B13B/view?usp=drive_link)
 
 # Semana 2
 - [Lunes 5 Junio a Viernes 9 Junio - Javascript]([https://drive.google.com/file/d/1E8WTYxizJEgzoWIWP_cUnJpONcgAV2O0/view?usp=sharing)
