@@ -45,7 +45,7 @@ Para poder considerar completadas las semanas 1 y 2 de entrenamiento debe contem
 | Screenshot para el flujo de integración de ramas: `git rebase`, `git cherry-pick`                                                   | 10          |
 | Dockerfile ejecutable                                                                                                               | 10          |
 | Archivo de Docker Compose que permita levantar el contendor                                                                         | 10          |
-| Pod de Kubernetes desplegando el contenedor                                                                                         | 10          |
+| Pod de Kubernetes desplegando el contenedor * (Opcional)                                                                            | 10          |
 | Tópicos replicados de Kafka                                                                                                         | 10          |
 | Impresiones de pantalla de la Función Lambda creada en la cuenta que permita la ejecución del código y REST Endpoint (o GraphQL Endpoint) de la API Gateway asociada a la función Lambda                                                                                           | 10          |
 | Captura de pantalla de logs en Cloudwatch                                                                                           | 10          |
