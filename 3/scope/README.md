@@ -30,7 +30,7 @@ function mayor_de_edad(edad){
     }else{
       let resultado = "Eres menor de de edad";
     }
-    console.log (resultado) ;
+    console.log(resultado);
 }
 mayor_de_edad(18);
 ```
