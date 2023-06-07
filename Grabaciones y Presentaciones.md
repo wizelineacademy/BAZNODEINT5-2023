@@ -18,7 +18,7 @@
 - 📺 [Grabación Viernes 2 Junio](https://drive.google.com/file/d/14MSD1QVWOuzy94QAAzX7LpaQno9-B13B/view?usp=drive_link)
 
 # Semana 3
-- [Lunes 5 Junio a Viernes 9 Junio - Javascript]([https://drive.google.com/file/d/1E8WTYxizJEgzoWIWP_cUnJpONcgAV2O0/view?usp=sharing)
+- [Lunes 5 Junio a Viernes 9 Junio - Javascript](https://drive.google.com/file/d/1E8WTYxizJEgzoWIWP_cUnJpONcgAV2O0/view?usp=sharing)
 - 📺 [Grabación Lunes 5 Junio](https://drive.google.com/file/d/1h9zzsRSm8QcqOyZCb0Sqrs0kXfKtap4g/view?usp=drive_link)
 - 📺 [Grabación Martes 6 Junio](https://drive.google.com/file/d/162RaSwyE1ctk9vDwW0H9mTHubMd9NxWL/view?usp=drive_link)
 - 📺 [Grabación Miércoles 7 Junio]
