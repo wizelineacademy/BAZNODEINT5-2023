@@ -11,7 +11,7 @@ El proyecto está conformado de ejercicios y tareas que se van realizando en las
   - Entregable 1 - Semanas 1 y 2
   - Entregable 2 - Semanas 3, 4, 5 y 6
 
-Se deberá enviar cada entrega en las fechas indicadas en la siguiente sección y para poder tener una `revisión` y `retroalimentación` se deberá enviar la URL de tu `Repositorio` a través del siguiente [formulario](https://forms.gle/rR2bwkKoPpUndnvy6), lo que nos indicará que está listo tu entregable para revisión.
+Se deberá enviar cada entrega en las fechas indicadas en la siguiente sección y para poder tener una `revisión` y `retroalimentación` se deberá enviar la URL de tu `Repositorio` a través del siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLSfnShrPgL4_jJkBeg27WVyzOtfREspDhCbT76W0u0Qjz2J5kg/viewform), lo que nos indicará que está listo tu entregable para revisión.
 
 # Entregables
 ## Fechas de Entrega
