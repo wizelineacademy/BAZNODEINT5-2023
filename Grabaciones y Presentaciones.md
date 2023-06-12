@@ -21,6 +21,14 @@
 - [Lunes 5 Junio a Viernes 9 Junio - Javascript](https://drive.google.com/file/d/1E8WTYxizJEgzoWIWP_cUnJpONcgAV2O0/view?usp=sharing)
 - 📺 [Grabación Lunes 5 Junio](https://drive.google.com/file/d/1h9zzsRSm8QcqOyZCb0Sqrs0kXfKtap4g/view?usp=drive_link)
 - 📺 [Grabación Martes 6 Junio](https://drive.google.com/file/d/162RaSwyE1ctk9vDwW0H9mTHubMd9NxWL/view?usp=drive_link)
-- 📺 [Grabación Miércoles 7 Junio]
-- 📺 [Grabación Jueves 8 Junio]
-- 📺 [Grabación Viernes 8 Junio]
+- 📺 [Grabación Miércoles 7 Junio](https://drive.google.com/file/d/1WgR0qQ2UROn84IVcrdFO63mK03LMt7_P/view?usp=drive_link)
+- 📺 [Grabación Jueves 8 Junio](https://drive.google.com/file/d/1UaIA1hY3DxpZX-WYRko-biqs59awWCWA/view?usp=drive_link)
+- 📺 [Grabación Viernes 9 Junio](https://drive.google.com/file/d/19o5z6kcloQiUmBZe9O5N3a30cag19A8r/view?usp=drive_link)
+
+# Semana 3
+- [Lunes 12 Junio a Viernes 16 Junio - Node JS]
+- 📺 [Grabación Lunes 12 Junio]
+- 📺 [Grabación Martes 13 Junio]
+- 📺 [Grabación Miércoles 14 Junio]
+- 📺 [Grabación Jueves 14 Junio]
+- 📺 [Grabación Viernes 15 Junio]
