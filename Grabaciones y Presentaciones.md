@@ -27,8 +27,8 @@
 
 # Semana 4
 - [Lunes 12 Junio a Viernes 16 Junio - Node JS]
-- 📺 [Grabación Lunes 12 Junio]
-- 📺 [Grabación Martes 13 Junio]
+- 📺 [Grabación Lunes 12 Junio](https://drive.google.com/file/d/11f62LI8OaNTQpOyI0vC3d5qmZrWYa5a-/view?usp=drive_link)
+- 📺 [Grabación Martes 13 Junio](https://drive.google.com/file/d/17OmEkSz3uCMKRZB9iBtTX0CIJRRvoVLy/view?usp=drive_link)
 - 📺 [Grabación Miércoles 14 Junio]
 - 📺 [Grabación Jueves 15 Junio]
 - 📺 [Grabación Viernes 16 Junio]
