@@ -39,4 +39,4 @@
 - 📺 [Grabación Martes 20 Junio](https://drive.google.com/file/d/1FOIzjSahZKVuggt4DUpYEkV4AAVyN7UE/view?usp=drive_link)
 - 📺 [Grabación Miércoles 21 Junio](https://drive.google.com/file/d/1cfSxotUk6LXf9pWszMYyi2JNiFCCXygY/view?usp=drive_link)
 - 📺 [Grabación Jueves 22 Junio](https://drive.google.com/file/d/14ok2Q34XhTwMTrUHj5D0z0gPwZD9cmD6/view?usp=drive_link)
-- 📺 [Grabación Viernes 23 Junio]
+- 📺 [Grabación Viernes 23 Junio](https://drive.google.com/file/d/1D0v7289zvxTtYitRyFVYqLJTjzKl7hd0/view?usp=drive_link)
