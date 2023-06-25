@@ -40,3 +40,11 @@
 - 📺 [Grabación Miércoles 21 Junio](https://drive.google.com/file/d/1cfSxotUk6LXf9pWszMYyi2JNiFCCXygY/view?usp=drive_link)
 - 📺 [Grabación Jueves 22 Junio](https://drive.google.com/file/d/14ok2Q34XhTwMTrUHj5D0z0gPwZD9cmD6/view?usp=drive_link)
 - 📺 [Grabación Viernes 23 Junio](https://drive.google.com/file/d/1D0v7289zvxTtYitRyFVYqLJTjzKl7hd0/view?usp=drive_link)
+
+# Semana 6
+- [Lunes 26 Junio a Viernes 30 Junio - Clean Code & Capstone Project]
+- 📺 [Grabación Lunes 26 Junio]
+- 📺 [Grabación Martes 27 Junio]
+- 📺 [Grabación Miércoles 28 Junio]
+- 📺 [Grabación Jueves 29 Junio]
+- 📺 [Grabación Viernes 30 Junio]
